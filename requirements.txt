@@ -1,0 +1,7 @@
+streamlit
+transformers
+scikit-learn
+pandas
+numpy
+torch # or the latest compatible version
+instaloader
