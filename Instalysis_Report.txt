@@ -1,0 +1,12 @@
+
+        **Instagram Captions Sentiment Analysis:**
+        - User Mood from captions: Moderately Depressed
+        
+        **Chat-Based Mental Health Analysis:**
+        - Previous Mood: N/A
+        - Current Mood: N/A
+        - Chat Impact: N/A
+        
+        **Final Mental Health Recommendations:**
+        - Suggested actions for Moderately Depressed
+        
